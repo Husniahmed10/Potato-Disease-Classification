@@ -27,7 +27,7 @@ Backend service using FastAPI to handle requests and serve predictions.
 Frontend: React.js   
 Backend: FastAPI  
 Machine Learning Framework: TensorFlow, Keras  
-Programming Language: Python, HTML, CSS, JavaScript  
+Programming Language: Python
 
 ## Model Training
 The model is trained using TensorFlow on a dataset of potato leaf images. The dataset is split into training and validation sets. Various image augmentation techniques are used to enhance the model's performance.  
