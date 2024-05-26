@@ -43,4 +43,14 @@ Upload an Image:
 Click on the upload button and select a leaf photo.  
 
 View Predictions:  
-The application will display the predicted disease type along with the confidence level.
+The application will display the predicted disease type along with the confidence level.  
+
+![Screenshot 2024-05-25 203037](https://github.com/Husniahmed10/Potato-Disease-Classification/assets/141121519/76185cc8-8c3b-427c-bcf3-9a9a4c965701)  
+![Screenshot 2024-05-25 203852](https://github.com/Husniahmed10/Potato-Disease-Classification/assets/141121519/c263b53d-3633-4544-95ce-614e1d292b64)  
+![Screenshot 2024-05-25 203918](https://github.com/Husniahmed10/Potato-Disease-Classification/assets/141121519/a96bef5b-6aed-4061-bf5b-7d2ba46c888a)   
+![Screenshot 2024-05-25 203944](https://github.com/Husniahmed10/Potato-Disease-Classification/assets/141121519/4fe7c17e-c84d-4944-a3f6-f9c01f64d755)
+
+
+
+
+
