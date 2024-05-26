@@ -10,9 +10,9 @@ This project leverages machine learning and deep learning techniques to classify
 Upload a leaf photo and get an instant prediction of its health status.
 
 ### Disease Categories:
- Late Blight
- Early Blight
- Healthy
+ Late Blight  
+ Early Blight  
+ Healthy  
  
 ### Confidence Level: 
 Get a confidence score for each prediction to understand the model's certainty.
@@ -24,7 +24,7 @@ User-friendly interface for uploading images and viewing results.
 Backend service using FastAPI to handle requests and serve predictions.
 
 ### Technologies Used
-Frontend: React.js
-Backend: FastAPI
-Machine Learning Framework: TensorFlow, Keras
-Programming Language: Python, HTML, CSS, JavaScript
+Frontend: React.js   
+Backend: FastAPI  
+Machine Learning Framework: TensorFlow, Keras  
+Programming Language: Python, HTML, CSS, JavaScript  
