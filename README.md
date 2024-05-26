@@ -30,7 +30,8 @@ Machine Learning Framework: TensorFlow, Keras
 Programming Language: Python, HTML, CSS, JavaScript  
 
 ## Model Training
-The model is trained using TensorFlow on a dataset of potato leaf images. The dataset is split into training and validation sets. Various image augmentation techniques are used to enhance the model's performance.
+The model is trained using TensorFlow on a dataset of potato leaf images. The dataset is split into training and validation sets. Various image augmentation techniques are used to enhance the model's performance.  
+Dataset Link: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 ## Usage
 
