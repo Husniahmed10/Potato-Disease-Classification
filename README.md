@@ -23,8 +23,23 @@ User-friendly interface for uploading images and viewing results.
 ### RESTful API: 
 Backend service using FastAPI to handle requests and serve predictions.
 
-### Technologies Used
+## Technologies Used
 Frontend: React.js   
 Backend: FastAPI  
 Machine Learning Framework: TensorFlow, Keras  
 Programming Language: Python, HTML, CSS, JavaScript  
+
+## Model Training
+The model is trained using TensorFlow on a dataset of potato leaf images. The dataset is split into training and validation sets. Various image augmentation techniques are used to enhance the model's performance.
+
+## Usage
+
+### Access the Frontend:
+
+Open your web browser and navigate to http://localhost:3000.  
+
+Upload an Image:  
+Click on the upload button and select a leaf photo.  
+
+View Predictions:  
+The application will display the predicted disease type along with the confidence level.
